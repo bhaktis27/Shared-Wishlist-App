@@ -25,6 +25,7 @@ MongoDB Atlas account
 Stripe account
 
 📸 Screenshots & Demo
-![Screenshot 2025-05-04 233332](https://github.com/user-attachments/assets/2cd4bd5d-2c6b-427f-8ea5-db8a733c111a)
-![Screenshot 2025-05-04 233349](https://github.com/user-attachments/assets/79e2a9fe-e2fe-4ae3-9452-2f2948c24fba)
-![Screenshot 2025-05-04 233405](https://github.com/user-attachments/assets/6666dd2e-bb30-4546-a67d-6ec508c1b704)
+![Screenshot 2025-05-04 233332](https://github.com/user-attachments/assets/8bafb541-4124-4809-b13d-d6a262417c73)
+![Screenshot 2025-05-04 233349](https://github.com/user-attachments/assets/b616d1b5-97ce-436a-8bd5-d816f6fdaf05)
+![Screenshot 2025-05-04 233405](https://github.com/user-attachments/assets/014f1800-6269-4d51-8dfe-97115ee3c44b)
+
