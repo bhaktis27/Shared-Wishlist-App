@@ -1,2 +1,2 @@
-•	This project is a responsive eCommerce web- site designed for showcasing and selling a single product. It includes key features such as displaying the product cost, description, size options, and various payment methods.
+•	This project is a responsive shared wishlist app- site designed for showcasing and selling a single product. It includes key features such as displaying the product cost, description, size options, and various payment methods.
 •	The website ensures a seamless user experi- ence across different devices and screen sizes, allowing customers to explore the product de- tails, select desired size, and make payments conveniently using their preferred payment method
